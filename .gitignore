@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# project specific
+.EmailMine_Env/
+.e_M_env/
+credentials.json
+emails.csv
+emails.csv.zip
+enron_mail_20150507.tar.gz
+token.pickle
